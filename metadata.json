@@ -1,0 +1,5 @@
+{
+  "name": "Trainer",
+  "description": "An interactive workout planner to track your weekly progress and stay motivated.",
+  "requestFramePermissions": []
+}
